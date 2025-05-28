@@ -1,3 +1,3 @@
 <html>
-  <title> Read Me </title>
+  <title> Read </title>
 </html>
